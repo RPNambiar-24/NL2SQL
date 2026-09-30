@@ -120,7 +120,3 @@ docker run -p 8080:8080 --env-file .env nl2sql-service
 ## Tech stack
 
 FastAPI · Gradio · LangChain (`langchain-community`) · Groq (`langchain-groq`) · SQLAlchemy · PostgreSQL/Supabase · Docker
-
-## License
-
-Add a license of your choice (e.g. MIT) here before publishing.
